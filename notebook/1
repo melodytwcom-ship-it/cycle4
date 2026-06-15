@@ -1,1 +1,25 @@
+# Research Question
 
+## Does Sleep Duration Predict Feelings of Sadness or Hopelessness Among High School Students?
+
+### Objective
+
+The objective of this study is to examine whether sleep duration can predict feelings of sadness or hopelessness among high school students using data from the 2007 Youth Risk Behavior Survey (YRBS).
+
+### Method
+
+Simple Linear Regression
+
+### Independent Variable
+
+- Sleep
+
+### Dependent Variable
+
+- SadOrHopeless
+
+### Hypotheses
+
+H₀: Sleep duration has no significant effect on feelings of sadness or hopelessness.
+
+H₁: Sleep duration has a significant effect on feelings of sadness or hopelessness.
