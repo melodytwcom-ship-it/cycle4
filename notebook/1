@@ -1,25 +1,42 @@
-# Research Question
+# 1. Research Question
 
-## Does Sleep Duration Predict Feelings of Sadness or Hopelessness Among High School Students?
+## Does Sleep Duration Affect Mental Health Among High School Students?
 
-### Objective
+### Research Question
 
-The objective of this study is to examine whether sleep duration can predict feelings of sadness or hopelessness among high school students using data from the 2007 Youth Risk Behavior Survey (YRBS).
+Is there a significant relationship between sleep duration and feelings of sadness or hopelessness among high school students?
 
-### Method
+### Variables
+
+| Variable | Type |
+|-----------|-----------|
+| Sleep | Independent Variable |
+| SadOrHopeless | Dependent Variable |
+
+### Statistical Method
 
 Simple Linear Regression
 
-### Independent Variable
-
-- Sleep
-
-### Dependent Variable
-
-- SadOrHopeless
-
 ### Hypotheses
 
-H₀: Sleep duration has no significant effect on feelings of sadness or hopelessness.
+**Null Hypothesis ($H_0$)**
 
-H₁: Sleep duration has a significant effect on feelings of sadness or hopelessness.
+There is no significant relationship between sleep duration and feelings of sadness or hopelessness.
+
+$$
+H_0:\beta_1 = 0
+$$
+
+**Alternative Hypothesis ($H_1$)**
+
+There is a significant relationship between sleep duration and feelings of sadness or hopelessness.
+
+$$
+H_1:\beta_1 \neq 0
+$$
+
+---
+
+## Load Dataset
+
+The following code imports the YRBS 2007 dataset and examines its structure before data preprocessing and analysis.
