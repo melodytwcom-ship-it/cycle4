@@ -1,7 +1,7 @@
 # References & Analytical Decisions
 
 ## Project Cycle 4 — Sleep Duration and Feelings of Sadness or Hopelessness
-**Group 13 | 113370219 謝紫旋, 113370232 周以心**
+** 113370219 謝紫旋**
 
 ---
 
